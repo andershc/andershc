@@ -1,4 +1,6 @@
 ### Hi there 👋
+- 🔭 I’m currently working on FullStack
+- - 🌱 I’m currently learning Vue, JavaScript, HTML, CSS and C++
 
 <!--
 **andershc/andershc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
