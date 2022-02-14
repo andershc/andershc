@@ -1,7 +1,7 @@
 ### Hi there 👋
-<p I'm studying to become a software engineer at NTNU /><a href="https://www.ntnu.no/studier/bidata" target="_blank"><img alt="NTNU" src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Logo-Ntnu.svg" alt="ntnu" width="40" height="40" /></a>
+I'm studying to become a software engineer at NTNU <a href="https://www.ntnu.no/studier/bidata" target="_blank"><img alt="NTNU" src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Logo-Ntnu.svg" alt="ntnu" width="40" height="40" /></a>
 
-My links: 
+##My links: 
 
 <a href="https://www.linkedin.com/in/anders-heft%C3%B8y-carlsen-4baa73211/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
