@@ -1,5 +1,6 @@
 ### Hi there 👋
-I'm studying to become a software engineer at NTNU <a href="https://www.ntnu.no/studier/bidata" target="_blank"><img alt="NTNU" src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Logo-Ntnu.svg" alt="ntnu" width="40" height="40" /></a>
+I'm studying to become a software engineer at NTNU in Trondheim
+<a href="https://www.ntnu.no/studier/bidata" target="_blank"><img alt="NTNU" src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Logo-Ntnu.svg" alt="ntnu" width="40" height="40" /></a>
 
 ##My links: 
 
