@@ -17,6 +17,5 @@
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
  
  ## Currently Working on
- [Calculator](https://andershc.github.io/IDATT2105-FullStack/)
-
+<a href="https://andershc.github.io/IDATT2105-FullStack/" target="_blank"><img alt="logo" src="https://github.com/andershc/IDATT2105-FullStack/blob/master/src/assets/Logo_Anders.png?raw=true" alt="ntnu" width="70" height="70" /></a>
 
