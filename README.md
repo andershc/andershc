@@ -22,6 +22,8 @@ I'm studying to become a software engineer at NTNU in Trondheim
 ## Currently Learning
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
+<a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/NextJS-Dark.svg" alt="Next.js" width="40" height="40"/> </a>
+<a href="https://www.w3schools.com/cs/index.php" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/C_Sharp_wordmark.svg/464px-C_Sharp_wordmark.svg.png" alt="C#" width="40" height="40"/> </a>
  
  ## Currently Working on
 <a href="https://andershc.github.io/IDATT2105-FullStack/" target="_blank"><img alt="logo" src="https://github.com/andershc/IDATT2105-FullStack/blob/master/src/assets/Logo_Anders.png?raw=true" alt="ntnu" width="70" height="70" /></a>
