@@ -1,5 +1,5 @@
 ### Hi there 👋
-I have a Bachelor's degree in data engineering from NTNU in Trondheim
+Comptuer science master student at NTNU Trondheim
 
 <a href="https://www.ntnu.no/studier/bidata" target="_blank"><img alt="NTNU" src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Logo-Ntnu.svg" alt="ntnu" width="40" height="40" /></a>
 
